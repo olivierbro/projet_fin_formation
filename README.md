@@ -21,4 +21,4 @@ Nota : fichier PowerBI trop volumineux
 
 ## Ouvrir le projet
 - Ouvrir le Notebook avec Jupyter / Colab
-- Ouvrir le ScritSQL avec MySQL
+- Ouvrir le Script SQL avec MySQL

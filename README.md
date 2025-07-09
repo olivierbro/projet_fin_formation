@@ -1,4 +1,4 @@
-# Projet fin formation Data Analyst - Analyse du parc immobilier d'un département
+# Projet de fin de formation Data Analyst - Analyse du parc immobilier d'un département
 
 ## Objectif 
 Consolider la vision du département du Territoire de Belfort (90) sur son territoire selon trois thématiques : 

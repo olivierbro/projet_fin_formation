@@ -16,6 +16,7 @@ Consolider la vision du département sur son territoire selon trois thématiques
 - Module 6_Rapport_BROYELLE Olivier
 - Module 6_ScriptSQL_BROYELLE Olivier
 - Module 6_Synthèse_BROYELLE Olivier
+
 Nota : fichier PowerBI trop volumineux
 
 ## Ouvrir le projet
